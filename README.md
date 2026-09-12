@@ -1,1 +1,2 @@
-# Gold Calculator v2
+# Gold Calculator
+
